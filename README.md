@@ -1,0 +1,4 @@
+FriendlyIdExample
+=================
+
+FriendlyId Example App
